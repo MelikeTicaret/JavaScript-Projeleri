@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.cotainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font:4em 'Poppins', sans-serif;
+    margin-bottom: 10px;
+    
+}
+#value{
+    color: white;
+    font:3em 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+  width: 200px;
+  height: 30px;
+  margin: 5px 0;
+  font:1em 'Poppins', sans-serif;
+  border-radius: 20px;
+}
+button:hover{
+    background-color: black;
+    border-color: white;
+    color: white;
+}
