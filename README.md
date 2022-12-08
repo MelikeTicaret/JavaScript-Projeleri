@@ -5,6 +5,9 @@
 4. [İnceleme Bandı Uygulaması](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Inceleme-Bandi-(Reviews-Card)-Uygulamasi)
 5. [Navbar Uygulaması](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Responsive-Navbar)
 6. [Sidebar Uygulaması](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Sidebar-Uygulamas%C4%B1)
+7. [Modal Sayfası](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Modal-Yap%C4%B1m%C4%B1)
+8. [SSS Sayfası](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/SSS%20-%20Sayfas%C4%B1%20-%20Yap%C4%B1m%C4%B1)
+
 
 
 
