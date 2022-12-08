@@ -2,6 +2,9 @@
 1. [Renk Paleti Uygulaması](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Renk-Paleti-Uygulamas%C4%B1)
 2. [Sayaç Uygulaması(interval)](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Saya%C3%A7-Uygulamas%C4%B1(interval))
 3. [Sayaç Uygulaması](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Saya%C3%A7-Uygulamas%C4%B1)
+4. [İnceleme Bandı Uygulaması](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Inceleme-Bandi-(Reviews-Card)-Uygulamasi)
+5. [Navbar Uygulaması](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Responsive-Navbar)
+6. [Sidebar Uygulaması](https://github.com/MelikeTicaret/JavaScript-Uygulamalari/tree/main/Sidebar-Uygulamas%C4%B1)
 
 
 
